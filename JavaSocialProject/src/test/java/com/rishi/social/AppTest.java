@@ -14,6 +14,7 @@ public class AppTest
 	@Test
     public void testApp()
     {
+		System.out.print("Hello");
         assertTrue( true );
     }
 }
